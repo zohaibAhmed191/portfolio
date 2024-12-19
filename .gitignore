@@ -1,0 +1,9 @@
+.idea
+node_modules
+yarn.lock
+build
+.env
+constant/constant.js
+package-lock.json
+/logs/uncaughtException.log
+*.zip
