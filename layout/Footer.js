@@ -68,7 +68,7 @@ const Footer1 = () => {
             </div>
             <div className="col-lg-3 col-md-5">
               <div className="footer-widget widget_contact_info wow fadeInUp delay-0-6s">
-                <h6 className="footer-title">Address</h6>
+                {/* <h6 className="footer-title">Address</h6> */}
                 <ul>
                   {/* <li>
                     <i className="far fa-map-marker-alt" /> Worldwide
